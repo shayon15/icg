@@ -2,4 +2,4 @@ An application to fill the daily progress report for associates and supervised b
 
 Use Python Flask 3.2.1 Setup the database in your local server to work on this application . Download the code and perform python app.py from the command line.
 
-DB setup:
+DB setup: It is done
