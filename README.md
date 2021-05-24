@@ -6,4 +6,3 @@ DB setup: It is done.
 
 Trying CI
 
-Trying Jenkins
