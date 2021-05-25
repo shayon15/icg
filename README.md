@@ -6,8 +6,4 @@ DB setup: It is done.
 
 Trying CI
 
-DEmo Jenkins.....
-
-........
-
 
